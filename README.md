@@ -2,6 +2,8 @@
 
 This project is a set of example Golang mini projects.
 
+<hr />
+
 | Project           |
 |-------------------|
 | [guess-the-number](guess-the-number)  |
